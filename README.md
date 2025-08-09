@@ -3,4 +3,4 @@ To access this most simple (Hello World) website directly from GitHub, then:
 
 Notes:
 - the Javascript list data persistance is unknown to me (might be in local storage of the browser which would be a problems if clearing browser data).
-- that the Prescriptions.xlsx and ExpirationDates.xlsx spreadsheets are accessed from RandyScott777 on Python Anywhere.
+- that the Prescriptions.xlsx and Expiration_Dates.xlsx spreadsheets are accessed from RandyScott777 on Python Anywhere.
